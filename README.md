@@ -4,7 +4,7 @@
 
 - 🔭 Зараз вивчаю: HTML, CSS, JavaScript, Git та GitHub
 - 🌱 Мої інтереси: веб-розробка, Linux
-- 📫 Зв'язок: (твій email)
+- 📫 Зв'язок: maks20081006@gmail.com
 
 ### Технології
 
